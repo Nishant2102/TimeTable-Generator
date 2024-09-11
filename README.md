@@ -37,4 +37,4 @@ Example:
 
 
 Issues:
-Front end, engine and algorithm integration was giving last minute issues
+Front end, engine and algorithm integration
